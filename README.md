@@ -4,7 +4,7 @@
 Create exe and apk payloads.
 
 # How to install 
-git clone https://github.com/skitz5674/666payload
+git clone https://github.com/Sskitz/666payload
 
 cd 666payload
 
