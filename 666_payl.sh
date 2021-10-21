@@ -5,7 +5,7 @@ resize -s 70 100 > /dev/null
 #colors
    cyan='\e[0;36m'
 lightcyan='\e[96m'
-green='\e[0;32m
+green='\e[0;32m'
 lightgreen='\e[1;32m'
 white='\e[1;37m'
 red='\e[1;31m'
